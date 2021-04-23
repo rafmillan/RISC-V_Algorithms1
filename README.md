@@ -21,5 +21,5 @@
 - Return 1 if given number is palindrome, else return 0
 - if bad input return 0
 - Ex: 
--- 12321 - return 1
--- 1451 - return 0
+    - 12321 - return 1
+    - 1451 - return 0
